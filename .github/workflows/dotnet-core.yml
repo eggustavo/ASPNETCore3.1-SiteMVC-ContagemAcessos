@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     env:
-      IDENTIFICACAO_ALUNO: anp-aluno-9
+      IDENTIFICACAO_ALUNO: 9
       DIRETORIO_WEBAPP: ./SiteContagem
 
     runs-on: ubuntu-latest
